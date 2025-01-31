@@ -11,7 +11,7 @@ First let's look at the name of our .java file in the `src/` directory. Java is 
 ```java
 public class Hello {
 
-};
+}
 ```
 
 Unlike C++, we don't need to add a semicolon (;) at the end of our class declaration.
